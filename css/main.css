@@ -1,0 +1,279 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+@media only screen and (min-width: 768px) {
+    /* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+    
+    .main aside {
+        -webkit-box-shadow: 0 5px 10px #aaa;
+        -moz-box-shadow: 0 5px 10px #aaa;
+        box-shadow: 0 5px 10px #aaa;
+    }
+    /* ============
+    WIDE: Main
+   ============ */
+    .main article {
+        float: left;
+        width: 57%;
+    }
+    .main aside {
+        float: right;
+        width: 28%;
+    }
+}
+
+@media only screen and (min-width: 1140px) {
+    /* ===============
+    Maximal Width
+   =============== */
+    .wrapper {
+        width: 1026px;
+        /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.hero-picker {
+    display: inline-block;
+}
+
+.hero-picker:hover {
+    box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+.animate-hide {
+    transition: all linear 0.25s;
+    line-height: 20px;
+    opacity: 1;
+    padding: 5px;
+}
+
+.animate-hide.ng-hide {
+    line-height: 0;
+    opacity: 0;
+    padding: 0 10px;
+}
+
+.animate-repeat.ng-enter {
+    transition: opacity linear 0.4s;
+}
+
+.animate-repeat.ng-move,
+.animate-repeat.ng-leave {
+    transition: opacity linear 0.2s;
+}
+
+.animate-repeat.ng-leave.ng-leave-active,
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter {
+    opacity: 0;
+}
+
+.animate-repeat.ng-leave,
+.animate-repeat.ng-move.ng-move-active,
+.animate-repeat.ng-enter.ng-enter-active {
+    opacity: 1;
+}
+
+.ngdialog.ngdialog-theme-default input[type="number"].ngdialog-input {
+    background: #fff;
+    border: 0;
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    margin: 0 0 .25em;
+    min-height: 2.5em;
+    padding: .25em .67em;
+}
+
+.ngdialog.ngdialog-theme-default input[type="number"].ngdialog-input:focus {
+    box-shadow: inset 0 0 0 2px #8dbdf1;
+    outline: none;
+}
+
+.ngdialog-label {
+    min-width: 180px;
+    display: inline-block;
+}
+
+.v-align-super {
+    vertical-align: super;
+}
+
+.hero-stat-editable>label {
+    display: inline-block;
+    width: 45%;
+}
+
+.hero-stat-editable>label>span {
+    min-width: 70px;
+    display: inline-block;
+}
+
+.hero-stat-editable>label>input {
+    width: auto;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+/* MONSTER LOOT TABLE */
+
+.quest-loot-drops-table {
+    width: 100%;
+    max-width: 475px;
+    border: 2px solid #bbb;
+    font-size: .9em;
+    clear: both;
+    margin: 30px 0 0 0;
+}
+
+.quest-loot-drops-table caption {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 0 5px 0;
+}
+
+.quest-loot-drops-table td {
+    padding: 5px 7px;
+}
+
+.quest-loot-drops-table thead {
+    background: #aaa;
+}
+
+.quest-loot-drops-table thead th {
+    height: 40px;
+    text-align: center;    
+}
+
+.quest-loot-drops-table tbody tr {
+    border-bottom: 1px solid #bbb;
+}
+
+.quest-loot-drops-table tbody tr td {
+    text-align: center;
+}
+
+.quest-loot-drops-table tfoot td {
+    font-style: italic;
+    font-size: .9em;
+    padding: 8px;
+}

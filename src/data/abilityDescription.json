@@ -1,0 +1,1046 @@
+{
+    "8 Arm Smash": {
+        "desc1": "Deal .8x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_slash.png"
+    },
+    "Absorb All": {
+        "desc1": "Heal .5x All Dmg Given",
+        "desc2": "for 1 Turn",
+        "image": "Skills/spell_kidney_shot.png"
+    },
+    "Absorb Atk": {
+        "desc1": "Heal .8x Atk Dmg",
+        "desc2": "for 1 Turn",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Absorb Matk": {
+        "desc1": "Absorb Matk",
+        "desc2": "",
+        "image": "Skills/spell_keen_eye.png"
+    },
+    "Ambush": {
+        "apCost": 12,
+        "desc1": "Deal 3x Atk&Acc. Enemy",
+        "desc2": "↓50% Atk for 1 turn",
+        "image": "Skills/spell_stab.png"
+    },
+    "Anti Magic Shell": {
+        "desc1": "Immune to Magical dmg",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_mind.png"
+    },
+    "Aqua Shield": {
+        "desc1": "Gain a .8x Matk Shield",
+        "desc2": "",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Arctic Fury": {
+        "desc1": "Gain 50% Atk",
+        "desc2": "Permanently",
+        "image": "Skills/spell_vicious_strike.png"
+    },
+    "Atk Drain": {
+        "desc1": "Deal .5x Atk",
+        "desc2": "Heals for Dmg Given",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Atk Drain II": {
+        "desc1": "Deal .8x Atk",
+        "desc2": "Heals for Dmg Given",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Atk Growth": {
+        "desc1": "Adds 10% Atk",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_critical_strike.png"
+    },
+    "Atk Immune": {
+        "desc1": "Immue to Atk ",
+        "desc2": "for 1 Turn",
+        "image": "Skills/spell_vitality.png"
+    },
+    "Azuros": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Balor": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Basic": {
+        "apCost": 0,
+        "desc1": "Deal 1x Atk & 1x Matk",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Battering Ram": {
+        "desc1": "Deal 1.5x Atk & Gain Def",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Berserk Smash": {
+        "apCost": 7,
+        "desc1": "Deal 1.8x Atk & Gain ",
+        "desc2": "Atk↑15% on Crit (stacks)",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Bison": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/.png"
+    },
+    "Blind Fury": {
+        "apCost": 3,
+        "desc1": "Gain Crit↑60% & Acc",
+        "desc2": "↓25% for 4 Turns",
+        "image": "Skills/spell_blind_fury.png"
+    },
+    "Block": {
+        "apCost": 7,
+        "desc1": "Block the next ",
+        "desc2": "Physical Attack",
+        "image": "Skills/spell_defend.png"
+    },
+    "Boros": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Bulwark": {
+        "desc1": "Gain Def↑50% & Mdef",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_protect.png"
+    },
+    "Cataclysm": {
+        "desc1": "Deal 2x Atk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_cataclysm.png"
+    },
+    "Cerberus Claw": {
+        "desc1": "Deal 1.4x Atk",
+        "desc2": "",
+        "image": "Skills/spell_slash.png"
+    },
+    "Charge": {
+        "desc1": "Deal 1.6x Atk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Charge II": {
+        "desc1": "Deal 2x Atk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Cheap Shot": {
+        "apCost": 6,
+        "desc1": "Deal 1.1x Atk as ",
+        "desc2": "True Dmg (Ignore Def)",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Cheap Shot II": {
+        "apCost": 9,
+        "desc1": "Deal 1.6x Atk as",
+        "desc2": "True Dmg (Ignore Def)",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Cleanse": {
+        "apCost": 9,
+        "desc1": "Remove all Debuffs",
+        "desc2": "on whole party",
+        "image": "Skills/spell_cleanse.png"
+    },
+    "Cleave": {
+        "desc1": "Deal 1x Atk to the ",
+        "desc2": "Front Row",
+        "image": "Skills/spell_slash.png"
+    },
+    "Colossal Stomp": {
+        "desc1": "Deal 3x Atk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Confuse": {
+        "desc1": "Random hero skips turn",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Consolidate": {
+        "desc1": "Passively increase Def",
+        "desc2": "and Mdef by 5%",
+        "image": "Skills/spell_mind.png",
+        "isPassive": true
+    },
+    "Corruption": {
+        "desc1": "Deal 1x Matk for ",
+        "desc2": "3 Turns",
+        "image": "Skills/spell_poison.png"
+    },
+    "Critical Eye": {
+        "desc1": "Passively increase Crit ",
+        "desc2": "Chance by 12%",
+        "image": "Skills/spell_critical_eye.png",
+        "isPassive": true
+    },
+    "Critical Strike": {
+        "desc1": "Passively increase Crit ",
+        "desc2": "Dmg by 35%",
+        "image": "Skills/spell_critical_strike.png",
+        "isPassive": true
+    },
+    "Crypt Poison": {
+        "apCost": 6,
+        "desc1": "Deal 1x Atk & 1x Matk",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_poison.png"
+    },
+    "Dark Arts": {
+        "desc1": "Passively increase Atk",
+        "desc2": "& Matk by 9%",
+        "image": "Skills/spell_defile.png",
+        "isPassive": true
+    },
+    "Dark Flame": {
+        "desc1": ".5x Matk True Dmg(AOE)",
+        "desc2": "& Def ↓50% for 3 turns",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Dark Power": {
+        "desc1": "Gain Atk↑50% & Matk",
+        "desc2": "↑25% for 3 Turns",
+        "image": "Skills/spell_overwhelm.png"
+    },
+    "Dark Precision": {
+        "desc1": "Passively increase",
+        "desc2": "Acc by 50 and Crit by 10",
+        "image": "Skills/spell_magic_missile.png",
+        "isPassive": true
+    },
+    "Dark Slash": {
+        "apCost": 4,
+        "desc1": "Deal 1.3x Atk & ",
+        "desc2": "1.3x Matk",
+        "image": "Skills/spell_dark_slash.png"
+    },
+    "Deadly Venom": {
+        "desc1": "Deal .7x Matk to the ",
+        "desc2": "Back Row for 3 Turns",
+        "image": "Skills/spell_poison.png"
+    },
+    "Death Touch": {
+        "desc1": "Deal 5x Matk to the",
+        "desc2": "Back Center Hero",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Def Growth": {
+        "desc1": "Adds 10% Def ",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_keen_eye.png"
+    },
+    "Defile": {
+        "desc1": "Deal 1.5x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_defile.png"
+    },
+    "Demolish": {
+        "desc1": "Deal 4x Atk",
+        "desc2": "",
+        "image": "Skills/spell_overwhelm.png"
+    },
+    "Demon Slash": {
+        "desc1": "Deal 1.5x Atk & ",
+        "desc2": "1.2x Matk",
+        "image": "Skills/spell_dark_slash.png"
+    },
+    "Desolate Howl": {
+        "desc1": "Gain Atk↑ 50% & Eva",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_battlecry.png"
+    },
+    "Devour": {
+        "desc1": "Deal 5x Atk to the",
+        "desc2": "Center Hero",
+        "image": "Skills/spell_poison.png"
+    },
+    "Devouring Cold": {
+        "desc1": "Absorb Atk & Matk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Divine Smite": {
+        "apCost": 6,
+        "desc1": "Deal 1.5xMatk&Acc. Party",
+        "desc2": "↑15%Matk&Acc (3 turns)",
+        "image": "Skills/spell_mind.png"
+    },
+    "Divine Strike": {
+        "apCost": 4,
+        "desc1": "Deal 1.4x Atk & ",
+        "desc2": "Heal for .2x Matk",
+        "image": "Skills/spell_divine_strike.png"
+    },
+    "Divine Strike II": {
+        "apCost": 8,
+        "desc1": "Deal 1.8x Atk & ",
+        "desc2": "Heal for .5x Matk",
+        "image": "Skills/spell_divine_strike.png"
+    },
+    "Double Image": {
+        "apCost": 7,
+        "desc1": "50% chance to skip",
+        "desc2": "next enemy attack",
+        "image": "Skills/spell_double_image.png"
+    },
+    "Dragon Breath": {
+        "desc1": "Deal .5x Atk & .5x Matk ",
+        "desc2": "(AOE)",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Dragon Lash": {
+        "desc1": "Deal 3x Atk to the ",
+        "desc2": "Front Row",
+        "image": "Skills/spell_slash.png"
+    },
+    "Dragon Scales": {
+        "desc1": "Gain Atk↑50% & Mdef",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Earth Shield": {
+        "desc1": "Gain a 1x Def Shield",
+        "desc2": "",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Earthquake": {
+        "desc1": "Deal .8x Atk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Earthquake II": {
+        "desc1": "Deal 1x Atk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Earthquake III": {
+        "desc1": "Deal 1.8x Atk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Elusion": {
+        "desc1": "50% Chance to Evade ",
+        "desc2": "for 3 turns",
+        "image": "Skills/spell_evade.png"
+    },
+    "Enrage": {
+        "apCost": 3,
+        "desc1": "Gain Atk↑60%",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_battlecry.png"
+    },
+    "Eternus": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Evade": {
+        "apCost": 8,
+        "desc1": "Evade the next Attack",
+        "desc2": "",
+        "image": "Skills/spell_evade.png"
+    },
+    "Explode": {
+        "desc1": "Deal 1x Matk (AOE)",
+        "desc2": "Damages Self",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Fatal Gaze": {
+        "desc1": "Deal 2.5x Matk to the ",
+        "desc2": "Center Hero",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Fenrir": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Ferocious Bite": {
+        "desc1": "Deal 1x Atk to the ",
+        "desc2": "Front Row",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Fire Shield": {
+        "desc1": "Gain a 5x Matk Shield",
+        "desc2": "",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Fire Shield II": {
+        "desc1": "Gain a 3x Matk Shield",
+        "desc2": "",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Flame Breath": {
+        "desc1": "1x Atk & Matk AOE, Give",
+        "desc2": "4 Turn↓25% Mdef & Def",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Gigas": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Glacial Prism": {
+        "desc1": "Reflect 50% Atk Dmg",
+        "desc2": "& 50% Matk Dmg",
+        "image": "Skills/spell_glacial_prism.png"
+    },
+    "Greater Heal": {
+        "apCost": 9,
+        "desc1": "Heal the party for ",
+        "desc2": ".25x Matk",
+        "image": "Skills/spell_greater_heal.png"
+    },
+    "Ground Slam": {
+        "desc1": "Deal .5x Def (AOE) ",
+        "desc2": "As Magic Damage",
+        "image": "Skills/spell_might.png"
+    },
+    "Harden": {
+        "desc1": "Def & Mdef ↑50% for 3",
+        "desc2": "Turns. Block next attack",
+        "image": "Skills/spell_protect.png"
+    },
+    "Heat Wave": {
+        "desc1": "Give Atk↓25% & Mdef",
+        "desc2": "↓50% for 3 Turns (AOE)",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Hellfire": {
+        "desc1": "Deal .5x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Holy Blessing": {
+        "apCost": 4,
+        "desc1": "Give party Atk↑15% &",
+        "desc2": "Mdef↑50% for 5 Turns",
+        "image": "Skills/spell_protect.png"
+    },
+    "Holy Shield": {
+        "apCost": 9,
+        "desc1": "Block next Magical",
+        "desc2": "Attack for whole party",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Hydro Slash": {
+        "desc1": "Deal 1.2x Atk & ",
+        "desc2": "1.2x Matk",
+        "image": "Skills/spell_slash.png"
+    },
+    "Ice Barrier": {
+        "desc1": "Shield for 1.5x Matk",
+        "desc2": "",
+        "image": "Skills/spell_protect.png"
+    },
+    "Inner Fire": {
+        "desc1": "Gain Atk↑50% & Matk",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Intellect": {
+        "desc1": "Passively increase Matk",
+        "desc2": "by 10%",
+        "image": "Skills/spell_intellect.png",
+        "isPassive": true
+    },
+    "Iron Hide": {
+        "desc1": "Gain ↑50% Atk&Def for 3",
+        "desc2": "Turns. Block next attack",
+        "image": "Skills/spell_defend.png"
+    },
+    "Juggernaut": {
+        "desc1": "Passively increase Hp ",
+        "desc2": "by 25%",
+        "image": "Skills/spell_juggernaut.png",
+        "isPassive": true
+    },
+    "Karthas": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Keen Eye": {
+        "desc1": "Passively increase Acc ",
+        "desc2": "by 10%",
+        "image": "Skills/spell_keen_eye.png",
+        "isPassive": true
+    },
+    "Kidney Shot": {
+        "apCost": 4,
+        "desc1": "Deal 1.6x Acc as ",
+        "desc2": "Physical Dmg",
+        "image": "Skills/spell_kidney_shot.png"
+    },
+    "Kidney Shot II": {
+        "apCost": 7,
+        "desc1": "Deal 2.2x Acc as",
+        "desc2": "Physical Dmg",
+        "image": "Skills/spell_kidney_shot.png"
+    },
+    "Lava Whip": {
+        "desc1": "Deal 2x Atk",
+        "desc2": "",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Lesser Heal": {
+        "apCost": 7,
+        "desc1": "Heal the target in front ",
+        "desc2": "of you for .8x Matk",
+        "image": "Skills/spell_lesser_heal.png"
+    },
+    "Magic Missile": {
+        "apCost": 6,
+        "desc1": "Deal 1.4x Matk & Gain",
+        "desc2": "Matk↑25% for 2 Turns",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Magic Missile II": {
+        "apCost": 9,
+        "desc1": "Deal 2x Matk & Gain",
+        "desc2": "Matk↑25% for 3 Turns",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Malice": {
+        "desc1": "Deal 4x Atk",
+        "desc2": "",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Malific Vision": {
+        "desc1": "Deal 4x Matk",
+        "desc2": "",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Mana Shield": {
+        "apCost": 5,
+        "desc1": "Reflect 0.6x Matk",
+        "desc2": "on next attack received",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Mana Shield II": {
+        "apCost": 8,
+        "desc1": "Reflect 1.2x Matk",
+        "desc2": "on next attack received",
+        "image": "Skills/spell_mana_shield.png"
+    },
+    "Master Decoy": {
+        "apCost": 5,
+        "desc1": "1 Turn Def & Mdef ↓50%",
+        "desc2": "Heal Party for 50% Dmg",
+        "image": "Skills/spell_master_decoy.png"
+    },
+    "Matk Drain": {
+        "desc1": "Deal .5x Matk",
+        "desc2": "Heals for Dmg Given",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Matk Drain II": {
+        "desc1": "Deal .8x Matk",
+        "desc2": "Heals for Dmg Given",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Matk Growth": {
+        "desc1": "Adds 10% Matk",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Matk Immune": {
+        "desc1": "Immune to Matk",
+        "desc2": "for 1 Turn",
+        "image": "Skills/spell_juggernaut.png"
+    },
+    "Mdef Growth": {
+        "desc1": "Adds 10% Mdef",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_critical_eye.png"
+    },
+    "Might": {
+        "desc1": "Passively increase Atk ",
+        "desc2": "by 10%",
+        "image": "Skills/spell_might.png",
+        "isPassive": true
+    },
+    "Mind": {
+        "desc1": "Passively increase",
+        "desc2": "Mdef & Acc by 10%",
+        "image": "Skills/spell_mind.png",
+        "isPassive": true
+    },
+    "Mind Blast": {
+        "apCost": 4,
+        "desc1": "Deal 1.6x Matk ",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Mind Blast II": {
+        "apCost": 7,
+        "desc1": "Deal 2.2x Matk ",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Nightmare": {
+        "desc1": "Deal 1.5x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_unbreakable.png"
+    },
+    "None": {
+        "desc1": "No Passive Applied",
+        "desc2": "",
+        "image": "Skills/spell_basic.png",
+        "isPassive": true
+    },
+    "Obliterate": {
+        "desc1": "Kills a random hero",
+        "desc2": "",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Oblivion": {
+        "desc1": "Deal 2x Atk & 2x Matk",
+        "desc2": "",
+        "image": "Skills/spell_oblivion.png"
+    },
+    "Oblivion Shield": {
+        "desc1": "Shield for 1x Atk",
+        "desc2": "",
+        "image": "Skills/spell_defend.png"
+    },
+    "Obsidian Shield": {
+        "desc1": "Immune to Physical dmg",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_defend.png"
+    },
+    "Overwhelm": {
+        "apCost": 3,
+        "desc1": "Party gain Atk↑25%",
+        "desc2": "& Matk↑25% for 3 Turns",
+        "image": "Skills/spell_overwhelm.png"
+    },
+    "Peaceful Respite": {
+        "apCost": 6,
+        "desc1": "Party and Enemy ↓50%",
+        "desc2": "Atk & Matk for 1 turn",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Perish Song": {
+        "desc1": "Deal .7x Matk for ",
+        "desc2": "3 Turns (AOE)",
+        "image": "Skills/spell_battlecry.png"
+    },
+    "Phoenix Strike": {
+        "desc1": "Deal .8x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Piercing strike": {
+        "desc1": "Deal 1.5x Atk & Give",
+        "desc2": "Def↓30% for 2 Turns",
+        "image": "Skills/spell_evade.png"
+    },
+    "Placeholder": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/.png"
+    },
+    "Poem of Focus": {
+        "apCost": 6,
+        "desc1": "This turn all crits",
+        "desc2": "do 2.5x more dmg",
+        "image": "Skills/spell_poem_of_focus.png"
+    },
+    "Poison": {
+        "apCost": 6,
+        "desc1": "Deal .7x Matk for ",
+        "desc2": "3 Turns",
+        "image": "Skills/spell_poison.png"
+    },
+    "Protect": {
+        "apCost": 3,
+        "desc1": "Gain Mdef↑50%",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_protect.png"
+    },
+    "Pulverize": {
+        "desc1": "Deal 3x Atk",
+        "desc2": "",
+        "image": "Skills/spell_might.png"
+    },
+    "Puncture": {
+        "apCost": 6,
+        "desc1": "Deal 1.1x Acc as ",
+        "desc2": "True Dmg",
+        "image": "Skills/spell_puncture.png"
+    },
+    "Puncture II": {
+        "apCost": 9,
+        "desc1": "Deal 1.7x Acc as",
+        "desc2": "True Dmg",
+        "image": "Skills/spell_puncture.png"
+    },
+    "Pyroblast": {
+        "desc1": "Deal 3x Matk to the ",
+        "desc2": "Center Hero",
+        "image": "Skills/spell_intellect.png"
+    },
+    "Rampart": {
+        "desc1": "Gain 25% Def & 25%",
+        "desc2": "Mdef Permanently",
+        "image": "Skills/spell_protect.png"
+    },
+    "Recharge": {
+        "apCost": -1,
+        "desc1": "Skips turn, adds 1 AP",
+        "desc2": "",
+        "image": "Skills/spell_recharge.png"
+    },
+    "Reflect": {
+        "desc1": "Reflect 50% Matk",
+        "desc2": "Dmg",
+        "image": "Skills/spell_protect.png"
+    },
+    "Reflect All": {
+        "desc1": ".5x All Dmg Given",
+        "desc2": "Dealt to Attacker",
+        "image": "Skills/spell_puncture.png"
+    },
+    "Reflect Atk": {
+        "desc1": ".8x Atk Dmg Given",
+        "desc2": "Dealt to Attacker",
+        "image": "Skills/spell_puncture.png"
+    },
+    "Reflect Matk": {
+        "desc1": ".8x Matk Dmg Given",
+        "desc2": "Dealt to Attacker",
+        "image": "Skills/spell_puncture.png"
+    },
+    "Rend": {
+        "desc1": "Give Eva↓50% for ",
+        "desc2": "3 Turns",
+        "image": "Skills/spell_slow.png"
+    },
+    "Requiem": {
+        "desc1": "(AOE) Deal .5x Matk",
+        "desc2": "for 5 Turns",
+        "image": "Skills/spell_requiem.png"
+    },
+    "Restore": {
+        "desc1": "Heal for .5x Matk",
+        "desc2": "",
+        "image": "Skills/spell_greater_heal.png"
+    },
+    "Revive": {
+        "apCost": 10,
+        "desc1": "Revive a fallen party ",
+        "desc2": "member with 50% hp",
+        "image": "Skills/spell_recharge.png"
+    },
+    "Savage Bite": {
+        "desc1": "Deal 3x Atk",
+        "desc2": "",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Savage Charge": {
+        "desc1": "Deal 2.5x Atk to the ",
+        "desc2": "Center Hero",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Serenade": {
+        "apCost": 4,
+        "desc1": "Gain Def↓100% and Give",
+        "desc2": "Atk↓50% for 1 Turn",
+        "image": "Skills/spell_serenade.png"
+    },
+    "Shadow Dance": {
+        "desc1": "Gain Atk↑25% & Eva",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_evade.png"
+    },
+    "Shadow Dance II": {
+        "desc1": "Gain Atk↑50% & Eva",
+        "desc2": "↑50% for 3 Turns",
+        "image": "Skills/spell_evade.png"
+    },
+    "Shadow Flame": {
+        "desc1": "Deal .8x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Shadow Strike": {
+        "desc1": "Deal 2.5x Matk to the ",
+        "desc2": "Center Hero",
+        "image": "Skills/spell_dark_slash.png"
+    },
+    "Shield": {
+        "apCost": 7,
+        "desc1": "Block the next ",
+        "desc2": "Magical Attack",
+        "image": "Skills/spell_protect.png"
+    },
+    "Shield Slam": {
+        "apCost": 5,
+        "desc1": "Deal 1.4x Def & Gain",
+        "desc2": "Def↑40% for 2 Turns",
+        "image": "Skills/spell_shield_slam.png"
+    },
+    "Shield Slam II": {
+        "apCost": 8,
+        "desc1": "Deal 2.3x Def & Gain",
+        "desc2": "Def↑60% for 3 Turns",
+        "image": "Skills/spell_shield_slam.png"
+    },
+    "Silence": {
+        "apCost": 8,
+        "desc1": "Remove all Buffs ",
+        "desc2": "from the Enemy",
+        "image": "Skills/spell_silence.png"
+    },
+    "Siphon Soul": {
+        "desc1": "Deal 0.5x Matk (AOE)",
+        "desc2": "Heals for damage dealt",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Skorge Slash": {
+        "desc1": "Deal 2.5x Atk & ",
+        "desc2": "2.5x Matk",
+        "image": "Skills/spell_slash.png"
+    },
+    "Slash": {
+        "apCost": 4,
+        "desc1": "Deal 1.6x Atk",
+        "desc2": "",
+        "image": "Skills/spell_slash.png"
+    },
+    "Slash II": {
+        "apCost": 7,
+        "desc1": "Deal 2.2x Atk ",
+        "desc2": "",
+        "image": "Skills/spell_slash.png"
+    },
+    "Slow": {
+        "apCost": 4,
+        "desc1": "Deal .6x Matk and Give",
+        "desc2": "Eva↓80% for 3 Turns",
+        "image": "Skills/spell_slow.png"
+    },
+    "Snap": {
+        "desc1": "Deal 1.8x Atk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Song of Courage": {
+        "apCost": 10,
+        "desc1": "Give Party↑8% Matk &",
+        "desc2": "Atk for 10 turns(stacks)",
+        "image": "Skills/spell_song_of_courage.png"
+    },
+    "Song of Defense": {
+        "apCost": 9,
+        "desc1": "Give Party 40% reflect",
+        "desc2": "on next attack received",
+        "image": "Skills/spell_song_of_defense.png"
+    },
+    "Stab": {
+        "apCost": 5,
+        "desc1": "Deal 1.6x Atk with ",
+        "desc2": "Crit Dmg +50%",
+        "image": "Skills/spell_stab.png"
+    },
+    "Stab II": {
+        "apCost": 8,
+        "desc1": "Deal 2.3x Atk with ",
+        "desc2": "Crit Dmg +100%",
+        "image": "Skills/spell_stab.png"
+    },
+    "Stomp": {
+        "desc1": "Deal .7x Atk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Streamline": {
+        "desc1": "Deal 1.2x Atk & Give",
+        "desc2": "Eva↑25% for 3 Turns",
+        "image": "Skills/spell_evade.png"
+    },
+    "Sunder": {
+        "apCost": 6,
+        "desc1": "Deal 1.2x Atk & Give ",
+        "desc2": "Def↓25% for 2 Turns",
+        "image": "Skills/spell_sunder.png"
+    },
+    "Sunder II": {
+        "apCost": 9,
+        "desc1": "Deal 1.8x Atk & Give ",
+        "desc2": "Def↓35% for 3 Turns",
+        "image": "Skills/spell_sunder.png"
+    },
+    "Swap Attack": {
+        "desc1": "Swaps Atk & Matk",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_basic.png"
+    },
+    "Swap Defense": {
+        "desc1": "Swaps Def & Mdef",
+        "desc2": "for entire battle",
+        "image": "Skills/spell_basic.png"
+    },
+    "Swift Strike": {
+        "desc1": "Deal 1x Atk as ",
+        "desc2": "True Dmg",
+        "image": "Skills/spell_stab.png"
+    },
+    "Tail Swipe": {
+        "desc1": "Deal .8x Atk to the ",
+        "desc2": "Front Row",
+        "image": "Skills/spell_slash.png"
+    },
+    "Tail Swipe II": {
+        "desc1": "Deal 1.2x Atk to the ",
+        "desc2": "Front Row",
+        "image": "Skills/spell_slash.png"
+    },
+    "Taunt": {
+        "apCost": 8,
+        "desc1": "Next enemy attack",
+        "desc2": "only hits hero",
+        "image": "Skills/spell_master_decoy.png"
+    },
+    "Templar Shield": {
+        "apCost": 6,
+        "desc1": "Deal 1.5x Atk &",
+        "desc2": "2x Matk",
+        "image": "Skills/spell_glacial_prism.png"
+    },
+    "Terrify": {
+        "apCost": 7,
+        "desc1": "Deal 1.4x Atk&Matk Give",
+        "desc2": "Mdef↓30% for 2 Turns",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Terrify II": {
+        "desc1": "Give Mdef↓50% for 3",
+        "desc2": "Turns (AOE)",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Terror": {
+        "desc1": "Give Mdef ↓50% for",
+        "desc2": "5 Turns",
+        "image": "Skills/spell_terrify.png"
+    },
+    "Titanic Slam": {
+        "desc1": "Deal 3x Atk",
+        "desc2": "",
+        "image": "Skills/spell_mind_blast.png"
+    },
+    "Torun": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Twilight Strike": {
+        "apCost": 7,
+        "desc1": "Deal 1.1x Atk & 1.1x Matk",
+        "desc2": "as True Dmg",
+        "image": "Skills/spell_vicious_strike.png"
+    },
+    "Unbreakable": {
+        "apCost": 4,
+        "desc1": "Remove all Debuffs",
+        "desc2": "",
+        "image": "Skills/spell_unbreakable.png"
+    },
+    "Unbreakable Will": {
+        "desc1": "Reflect 75% Atk Dmg",
+        "desc2": "for 3 Turns",
+        "image": "Skills/spell_protect.png"
+    },
+    "Undertow": {
+        "desc1": "Deal 1x Def (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_undertow.png"
+    },
+    "Undertow II": {
+        "desc1": "Deal 1x Atk to the Back",
+        "desc2": "Row",
+        "image": "Skills/spell_might.png"
+    },
+    "Unholy Cleave": {
+        "desc1": "Deal 1.8x Atk & Give ",
+        "desc2": "Def↓50% for 3 Turns",
+        "image": "Skills/spell_slash.png"
+    },
+    "Unholy Slash": {
+        "apCost": 4,
+        "desc1": "Deal 1.5x Atk & Matk",
+        "desc2": "Lifesteal 8%",
+        "image": "Skills/spell_dark_slash.png"
+    },
+    "Unholy Slash II": {
+        "apCost": 6,
+        "desc1": "Deal 2x Atk & Matk",
+        "desc2": "Lifesteal 10%",
+        "image": "Skills/spell_dark_slash.png"
+    },
+    "Unstoppable Force": {
+        "desc1": "Deal 3x Atk to the",
+        "desc2": "Front Row",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Vampire Blast": {
+        "desc1": "Deal .5x Matk (AOE) ",
+        "desc2": "Heals for Dmg Given",
+        "image": "Skills/spell_cheap_shot.png"
+    },
+    "Vicious Strike": {
+        "apCost": 6,
+        "desc1": "Deal 1.4x Atk & Gain ",
+        "desc2": "Atk↑25% for 2 Turns",
+        "image": "Skills/spell_vicious_strike.png"
+    },
+    "Vicious Strike II": {
+        "apCost": 9,
+        "desc1": "Deal 2x Atk & Gain ",
+        "desc2": "Atk↑25% for 3 Turns",
+        "image": "Skills/spell_vicious_strike.png"
+    },
+    "Vitality": {
+        "desc1": "Passively increase Def",
+        "desc2": "by 12% and Atk by 6%",
+        "image": "Skills/spell_vitality.png",
+        "isPassive": true
+    },
+    "Weaken": {
+        "desc1": "Deal 1.2x Matk & Give",
+        "desc2": "Matk↓25% for 2 Turns",
+        "image": "Skills/spell_magic_missile.png"
+    },
+    "Winters Bite": {
+        "desc1": "Deal 1x Matk (AOE)",
+        "desc2": "",
+        "image": "Skills/spell_winters_bite.png"
+    },
+    "Wisdom": {
+        "desc1": "Passively increase Ap",
+        "desc2": "by 2",
+        "image": "Skills/spell_mind_blast.png",
+        "isPassive": true
+    },
+    "Wolf": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    },
+    "Wraith": {
+        "desc1": "",
+        "desc2": "",
+        "image": "Skills/spell_basic.png"
+    }
+}

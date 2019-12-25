@@ -1,0 +1,59 @@
+.ico-heroes {
+    background-image: url(../img/heroes_sheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.ico-heroes-Icn_Hero_Assassin {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -5px;
+}
+
+.ico-heroes-Icn_Hero_Bard {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -5px;
+}
+
+.ico-heroes-Icn_Hero_Berserker {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -5px;
+}
+
+.ico-heroes-Icn_Hero_Cleric {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -47px;
+}
+
+.ico-heroes-Icn_Hero_Dark-Knight {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -47px;
+}
+
+.ico-heroes-Icn_Hero_Mage {
+    width: 32px;
+    height: 31px;
+    background-position: -89px -47px;
+}
+
+.ico-heroes-Icn_Hero_Paladin {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -88px;
+}
+
+.ico-heroes-Icn_Hero_Rogue {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -5px;
+}
+
+.ico-heroes-Icn_Hero_Warrior {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -47px;
+}

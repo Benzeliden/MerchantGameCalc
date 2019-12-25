@@ -1,0 +1,346 @@
+[
+    {
+        "stats": "Atk: 2",
+        "name": "Burning",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "1"
+    },
+    {
+        "stats": "mAtk: 2",
+        "name": "Cold",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "6"
+    },
+    {
+        "stats": "mDef: 2",
+        "name": "Focused",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "26"
+    },
+    {
+        "stats": "Def: 2",
+        "name": "Solid",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "21"
+    },
+    {
+        "stats": "Acc: 2",
+        "name": "Keen",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "11"
+    },
+    {
+        "stats": "HP: 3",
+        "name": "Tenacious",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "16"
+    },
+    {
+        "stats": "mAtk: 4",
+        "name": "Chilled",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "7"
+    },
+    {
+        "stats": "Exp: 5",
+        "name": "Skilled",
+        "weight": 5,
+        "sell": 0.25,
+        "minLevel": 11,
+        "id": "35"
+    },
+    {
+        "stats": "Atk: 4",
+        "name": "Fiery",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "2"
+    },
+    {
+        "stats": "speed: 4",
+        "name": "Quick",
+        "weight": 5,
+        "sell": 0.25,
+        "minLevel": 11,
+        "id": "33"
+    },
+    {
+        "stats": "mDef: 4",
+        "name": "Resolute",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "27"
+    },
+    {
+        "stats": "Acc: 4",
+        "name": "Accurate",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "12"
+    },
+    {
+        "stats": "HP: 6",
+        "name": "Vigorous",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "17"
+    },
+    {
+        "stats": "Def: 4",
+        "name": "Hard",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "22"
+    },
+    {
+        "stats": "mAtk: 6",
+        "name": "Icy",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "8"
+    },
+    {
+        "stats": "HP: 9",
+        "name": "Robust",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "18"
+    },
+    {
+        "stats": "Def: 6",
+        "name": "Tough",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "23"
+    },
+    {
+        "stats": "Acc: 6",
+        "name": "Sharp",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "13"
+    },
+    {
+        "stats": "mDef: 6",
+        "name": "Centered",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "28"
+    },
+    {
+        "stats": "Luck: 2",
+        "name": "Lucky",
+        "weight": 5,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "31"
+    },
+    {
+        "stats": "Atk: 6",
+        "name": "Flaming",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "3"
+    },
+    {
+        "stats": "HP: 12",
+        "name": "Resilient",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "19"
+    },
+    {
+        "stats": "mAtk: 8",
+        "name": "Frozen",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "9"
+    },
+    {
+        "stats": "Acc: 8",
+        "name": "Fatal",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "14"
+    },
+    {
+        "stats": "mDef: 8",
+        "name": "Mindful",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "29"
+    },
+    {
+        "stats": "Atk: 8",
+        "name": "Smoldering",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "4"
+    },
+    {
+        "stats": "speed: 8",
+        "name": "Swift",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 31,
+        "id": "34"
+    },
+    {
+        "stats": "Def: 8",
+        "name": "Sturdy",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "24"
+    },
+    {
+        "stats": "Exp: 10",
+        "name": "Expert's",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 31,
+        "id": "36"
+    },
+    {
+        "stats": "mDef: 10",
+        "name": "Protector's",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "30"
+    },
+    {
+        "stats": "Def: 10",
+        "name": "Defender's",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "25"
+    },
+    {
+        "stats": "Luck: 4",
+        "name": "Fortunate",
+        "weight": 10,
+        "sell": 0.25,
+        "minLevel": 41,
+        "id": "32"
+    },
+    {
+        "stats": "Acc: 10",
+        "name": "Deadly",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "15"
+    },
+    {
+        "stats": "Atk: 10",
+        "name": "Blazing",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "5"
+    },
+    {
+        "stats": "HP: 15",
+        "name": "Titan's",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "20"
+    },
+    {
+        "stats": "mAtk: 10",
+        "name": "Glacial",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "10"
+    },
+    {
+        "stats": "AP: 1",
+        "name": "Savvy",
+        "weight": 10,
+        "sell": 0.35,
+        "minLevel": 61,
+        "id": "37"
+    },
+    {
+        "stats": "Acc%: 10",
+        "name": "Brisk",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 61,
+        "id": "39"
+    },
+    {
+        "stats": "Atk%: 10",
+        "name": "Radiant",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 61,
+        "id": "40"
+    },
+    {
+        "stats": "mAtk%: 10",
+        "name": "Frigid",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 61,
+        "id": "41"
+    },
+    {
+        "stats": "Def%: 10",
+        "name": "Strong",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 61,
+        "id": "42"
+    },
+    {
+        "stats": "mDef%: 10",
+        "name": "Rigid",
+        "weight": 10,
+        "sell": 0.3,
+        "minLevel": 61,
+        "id": "43"
+    },
+    {
+        "stats": "AP: 2",
+        "name": "Master's",
+        "weight": 5,
+        "sell": 0.4,
+        "minLevel": 66,
+        "id": "38"
+    }
+]

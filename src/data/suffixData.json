@@ -1,0 +1,86 @@
+[
+    {
+        "name": "+1",
+        "weight": 5,
+        "sell": 0.1,
+        "minLevel": 1,
+        "id": "1"
+    },
+    {
+        "name": "+2",
+        "weight": 10,
+        "sell": 0.15,
+        "minLevel": 11,
+        "id": "2"
+    },
+    {
+        "name": "+3",
+        "weight": 20,
+        "sell": 0.2,
+        "minLevel": 21,
+        "id": "3"
+    },
+    {
+        "name": "+4",
+        "weight": 30,
+        "sell": 0.25,
+        "minLevel": 31,
+        "id": "4"
+    },
+    {
+        "name": "+5",
+        "weight": 40,
+        "sell": 0.3,
+        "minLevel": 41,
+        "id": "5"
+    },
+    {
+        "name": "+6",
+        "weight": 20,
+        "sell": 0.4,
+        "minLevel": 46,
+        "id": "6"
+    },
+    {
+        "name": "+7",
+        "weight": 10,
+        "sell": 0.5,
+        "minLevel": 51,
+        "id": "7"
+    },
+    {
+        "name": "+8",
+        "weight": 5,
+        "sell": 0.6,
+        "minLevel": 56,
+        "id": "8"
+    },
+    {
+        "name": "+9",
+        "weight": 1,
+        "sell": 0.7,
+        "minLevel": 60,
+        "id": "9"
+    },
+    {
+        "name": "+10",
+        "weight": 1,
+        "sell": 0.8,
+        "minLevel": 66,
+        "id": "10"
+    },
+    {
+        "name": "+11",
+        "weight": 1,
+        "sell": 0.9,
+        "minLevel": 70,
+        "id": "11"
+    },
+    {
+        "name": "+12",
+        "weight": 1,
+        "sell": 1,
+        "minLevel": 72,
+        "id": "12"
+    }
+]

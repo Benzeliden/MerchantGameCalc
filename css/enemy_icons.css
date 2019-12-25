@@ -1,0 +1,467 @@
+.ico-enemy {
+    background-image: url(../img/enemy_spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.ico-enemy-Quests_Events_Icn_Badlands_Hel {
+    width: 32px;
+    height: 31px;
+    background-position: -1px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_Badlands_Oni {
+    width: 32px;
+    height: 31px;
+    background-position: -35px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_Highland_Kirin {
+    width: 32px;
+    height: 31px;
+    background-position: -69px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_Yarsol_Leviathan {
+    width: 32px;
+    height: 31px;
+    background-position: -103px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_badlands_shadows {
+    width: 32px;
+    height: 31px;
+    background-position: -137px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_highland_alkyoneus {
+    width: 32px;
+    height: 31px;
+    background-position: -171px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_highland_magnotaur {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_yarsol_genbu {
+    width: 32px;
+    height: 31px;
+    background-position: -239px -1px;
+}
+
+.ico-enemy-Quests_Events_Icn_yarsol_kraken {
+    width: 32px;
+    height: 31px;
+    background-position: -1px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Forest_Treant {
+    width: 32px;
+    height: 32px;
+    background-position: -35px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Goblin_Chieftain {
+    width: 32px;
+    height: 32px;
+    background-position: -69px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Goblin_Enchanter {
+    width: 32px;
+    height: 32px;
+    background-position: -103px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Goblin_Footman {
+    width: 32px;
+    height: 32px;
+    background-position: -137px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Grass_Spider {
+    width: 32px;
+    height: 32px;
+    background-position: -171px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Herbs {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Maexna {
+    width: 32px;
+    height: 32px;
+    background-position: -239px -34px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Moss_Golem {
+    width: 32px;
+    height: 32px;
+    background-position: -1px -68px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Tuvale_Viper {
+    width: 32px;
+    height: 32px;
+    background-position: -35px -68px;
+}
+
+.ico-enemy-Quests_Region_1_Icn_Wild_Boar {
+    width: 32px;
+    height: 32px;
+    background-position: -69px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Basamus {
+    width: 32px;
+    height: 32px;
+    background-position: -103px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Coral_Giant {
+    width: 32px;
+    height: 32px;
+    background-position: -137px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Herbs {
+    width: 32px;
+    height: 32px;
+    background-position: -171px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Murlok_Assassin {
+    width: 32px;
+    height: 32px;
+    background-position: -205px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Murlok_HighPriest {
+    width: 32px;
+    height: 32px;
+    background-position: -239px -68px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Murlok_Priest {
+    width: 32px;
+    height: 32px;
+    background-position: -1px -102px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Murlok_Spearman {
+    width: 32px;
+    height: 32px;
+    background-position: -35px -102px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Sand_Lizard {
+    width: 32px;
+    height: 32px;
+    background-position: -69px -102px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Water_Willow {
+    width: 32px;
+    height: 32px;
+    background-position: -103px -102px;
+}
+
+.ico-enemy-Quests_Region_2_Icn_Yarsol_Snapper {
+    width: 32px;
+    height: 32px;
+    background-position: -137px -102px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Aldur_Guardian {
+    width: 32px;
+    height: 32px;
+    background-position: -171px -102px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Aldur_Ram {
+    width: 32px;
+    height: 32px;
+    background-position: -205px -102px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Ares {
+    width: 32px;
+    height: 32px;
+    background-position: -239px -102px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Gnoll_Hunter {
+    width: 32px;
+    height: 32px;
+    background-position: -1px -136px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Gnoll_Overlord {
+    width: 32px;
+    height: 32px;
+    background-position: -35px -136px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Gnoll_Shaman {
+    width: 32px;
+    height: 32px;
+    background-position: -69px -136px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Herbs {
+    width: 32px;
+    height: 32px;
+    background-position: -103px -136px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Highland_Titan {
+    width: 32px;
+    height: 32px;
+    background-position: -137px -136px;
+}
+
+.ico-enemy-Quests_Region_3_Icn_Highland_Tunneler {
+    width: 32px;
+    height: 32px;
+    background-position: -171px -136px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Antares {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -136px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Dark_Colossus {
+    width: 32px;
+    height: 31px;
+    background-position: -239px -136px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Haunted_Harwood {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -169px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Herbs {
+    width: 32px;
+    height: 32px;
+    background-position: -239px -169px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Lich_King {
+    width: 32px;
+    height: 31px;
+    background-position: -1px -203px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Night_Beast {
+    width: 32px;
+    height: 31px;
+    background-position: -35px -203px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Nightmare_Scorpion {
+    width: 32px;
+    height: 31px;
+    background-position: -69px -203px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Undead_Mage {
+    width: 32px;
+    height: 31px;
+    background-position: -103px -203px;
+}
+
+.ico-enemy-Quests_Region_4_Icn_Undead_Warrior {
+    width: 32px;
+    height: 31px;
+    background-position: -137px -203px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_Herbs {
+    width: 32px;
+    height: 31px;
+    background-position: -171px -203px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_arkyos {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -203px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_cerberus {
+    width: 32px;
+    height: 31px;
+    background-position: -239px -203px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_demon_mage {
+    width: 32px;
+    height: 31px;
+    background-position: -1px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_demon_warrior {
+    width: 32px;
+    height: 31px;
+    background-position: -35px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_fafnir {
+    width: 32px;
+    height: 31px;
+    background-position: -69px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_fatalis {
+    width: 32px;
+    height: 31px;
+    background-position: -103px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_guardian {
+    width: 32px;
+    height: 31px;
+    background-position: -137px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_lava_beast {
+    width: 32px;
+    height: 31px;
+    background-position: -171px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_molten_giant {
+    width: 32px;
+    height: 31px;
+    background-position: -205px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_ozai {
+    width: 32px;
+    height: 31px;
+    background-position: -239px -236px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_phoenix {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -1px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_skorge {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -34px;
+}
+
+.ico-enemy-Quests_Region_5_Icn_grimhal_volcanic_lumberer {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -67px;
+}
+
+.ico-enemy-Quests_Region_5_icn_dragon {
+    width: 32px;
+    height: 32px;
+    background-position: -273px -100px;
+}
+
+.ico-enemy-Quests_Region_5_icn_dragon_boss {
+    width: 32px;
+    height: 32px;
+    background-position: -273px -134px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_azuros {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -168px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_balor {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -201px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_boros {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -234px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_calamity_wraith {
+    width: 32px;
+    height: 31px;
+    background-position: -273px -267px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_desolation_wolf {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -1px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_eternus {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -34px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_fenrir {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -67px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_glacial_goliath {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -100px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_hungering_gigas {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -133px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_karthas {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -166px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_mourning_balwood {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -199px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_nightmare_bison {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -232px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_roots {
+    width: 32px;
+    height: 31px;
+    background-position: -307px -265px;
+}
+
+.ico-enemy-Quests_Region_6_Icn_oblivion_torun {
+    width: 32px;
+    height: 31px;
+    background-position: -1px -298px;
+}

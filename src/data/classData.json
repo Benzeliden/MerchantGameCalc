@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "fullName": "Warrior",
+        "icon": "ico-heroes-Icn_Hero_Warrior",
+        "skills": [
+            "Basic",
+            "Slash",
+            "Shield Slam",
+            "Block",
+            "Slash II",
+            "Unbreakable",
+            "Shield Slam II",
+            "Taunt"
+        ],
+        "passiveList": [
+            "Might",
+            "Vitality",
+            "Juggernaut"
+        ]
+    },
+    {
+        "id": 2,
+        "fullName": "Rogue",
+        "icon": "ico-heroes-Icn_Hero_Rogue",
+        "skills": [
+            "Basic",
+            "Kidney Shot",
+            "Sunder",
+            "Cheap Shot",
+            "Evade",
+            "Kidney Shot II",
+            "Cheap Shot II",
+            "Sunder II"
+        ],
+        "passiveList": [
+            "Might",
+            "Keen Eye",
+            "Critical Strike"
+        ]
+    },
+    {
+        "id": 3,
+        "fullName": "Mage",
+        "icon": "ico-heroes-Icn_Hero_Mage",
+        "skills": [
+            "Basic",
+            "Mind Blast",
+            "Magic Missile",
+            "Mind Blast II",
+            "Mana Shield",
+            "Silence",
+            "Magic Missile II",
+            "Mana Shield II"
+        ],
+        "passiveList": [
+            "Intellect",
+            "Wisdom",
+            "Mind"
+        ]
+    },
+    {
+        "id": 4,
+        "fullName": "Berserker",
+        "icon": "ico-heroes-Icn_Hero_Berserker",
+        "skills": [
+            "Basic",
+            "Slash",
+            "Enrage",
+            "Slash II",
+            "Vicious Strike",
+            "Blind Fury",
+            "Vicious Strike II",
+            "Berserk Smash"
+        ],
+        "passiveList": [
+            "Might",
+            "Critical Eye",
+            "Critical Strike"
+        ]
+    },
+    {
+        "id": 5,
+        "fullName": "Cleric",
+        "icon": "ico-heroes-Icn_Hero_Cleric",
+        "skills": [
+            "Basic",
+            "Mind Blast",
+            "Divine Smite",
+            "Mind Blast II",
+            "Lesser Heal",
+            "Cleanse",
+            "Greater Heal",
+            "Revive"
+        ],
+        "passiveList": [
+            "Intellect",
+            "Wisdom",
+            "Mind"
+        ]
+    },
+    {
+        "id": 6,
+        "fullName": "Assassin",
+        "icon": "ico-heroes-Icn_Hero_Assassin",
+        "skills": [
+            "Basic",
+            "Kidney Shot",
+            "Stab",
+            "Puncture",
+            "Evade",
+            "Stab II",
+            "Puncture II",
+            "Ambush"
+        ],
+        "passiveList": [
+            "Keen Eye",
+            "Critical Eye",
+            "Critical Strike"
+        ]
+    },
+    {
+        "id": 7,
+        "fullName": "Paladin",
+        "icon": "ico-heroes-Icn_Hero_Paladin",
+        "skills": [
+            "Basic",
+            "Divine Strike",
+            "Templar Shield",
+            "Shield",
+            "Holy Blessing",
+            "Unbreakable",
+            "Divine Strike II",
+            "Holy Shield"
+        ],
+        "passiveList": [
+            "Mind",
+            "Vitality",
+            "Juggernaut"
+        ]
+    },
+    {
+        "id": 8,
+        "fullName": "Dark Knight",
+        "icon": "ico-heroes-Icn_Hero_Dark-Knight",
+        "skills": [
+            "Basic",
+            "Unholy Slash",
+            "Slow",
+            "Terrify",
+            "Overwhelm",
+            "Crypt Poison",
+            "Unholy Slash II",
+            "Twilight Strike"
+        ],
+        "passiveList": [
+            "Dark Arts",
+            "Dark Precision",
+            "Wisdom"
+        ]
+    },
+    {
+        "id": 9,
+        "fullName": "Bard",
+        "icon": "ico-heroes-Icn_Hero_Bard",
+        "skills": [
+            "Basic",
+            "Serenade",
+            "Song of Courage",
+            "Master Decoy",
+            "Poem of Focus",
+            "Song of Defense",
+            "Peaceful Respite",
+            "Double Image",
+            "Recharge"
+        ],
+        "passiveList": [
+            "Consolidate",
+            "Juggernaut",
+            "Wisdom"
+        ]
+    }
+]
